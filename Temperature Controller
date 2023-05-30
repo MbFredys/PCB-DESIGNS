@@ -1,0 +1,7 @@
+Among the characteristics of this temperature controller we can highlight:
+ - Displays the current temperature value.
+ - Shows the desired temperature value.
+ - Includes two buttons to raise and lower temperature.
+ - Receives a supply voltage of 100-240V AC.
+ - Has Bluetooth communication.
+ - Allows thermocouple and pt100 type sensor inputs.

@@ -1,2 +1,3 @@
-In this repository I will be uploading some PCB designs made by me. 
- Although it is true that I want to show what I do, what I want most is to learn and continue developing skills, so any criticism or advice will be welcome.
+"These are the projects I completed during the Platzi course. They are just as I left them at the end of the course, despite any errors I may have made in the designs (LOL). It was an excellent basic course. 
+
+If you are interested, here is the link to it: https://platzi.com/cursos/circuitos-electronicos/"

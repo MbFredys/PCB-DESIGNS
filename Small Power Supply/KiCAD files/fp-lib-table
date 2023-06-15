@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Modules)(type KiCad)(uri "C:/Users/Ing. Fredys/Documents/MEGA/MEGAsync Imports/Modules")(options "")(descr ""))
+  (lib (name "02-KiCad Files")(type KiCad)(uri "D:/SAVE PROY/Proyectos KICAD/01-Fuente Alimentración/02-Prototype/02-KiCad Files")(options "")(descr ""))
+)

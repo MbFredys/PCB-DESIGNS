@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name In_Board_Gnia-rescue)(type Legacy)(uri ${KIPRJMOD}/In_Board_Gnia-rescue.lib)(options "")(descr ""))
+)

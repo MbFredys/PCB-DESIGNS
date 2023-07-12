@@ -1,3 +1,5 @@
+<h1>TEMPERATURE CONTROLLER</h1>
+
 Some key features of the design include that:
 - Shows the current temperature value.
 - Shows the desired temperature value.

@@ -1,5 +1,3 @@
-# PCB Designs
+These are the projects I completed during the Platzi course. They are just as I left them at the end of the course, despite any errors I may have made in the designs (LOL). It was an excellent basic course. 
 
-In this repository, I will be publishing several of my PCB designs, including the mistakes I may have made (I have designs from my early days). Similarly, I am still studying and learning. 
-
-I hope it can be helpful to you, and I would greatly appreciate your feedback.
+If you are interested, here is the link: https://platzi.com/cursos/circuitos-electronicos/

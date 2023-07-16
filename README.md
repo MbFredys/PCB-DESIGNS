@@ -9,13 +9,13 @@ The following are the projects included in this repository:
 2. Development Board (like Arduino Uno but better)
 
 <h1>Course Information</h1>
-If you are interested in learning PCB design, I highly recommend taking the [Platzi course on Circuitos Electrónicos ↗](https://platzi.com/cursos/circuitos-electronicos/). This course covers all the basics of PCB design and provides hands-on experience with projects.
+If you are interested in learning PCB design, I highly recommend taking the Platzi course on [Circuitos Electrónicos ↗](https://platzi.com/cursos/circuitos-electronicos/). This course covers all the basics of PCB design and provides hands-on experience with projects.
 
-🚀 Getting Started
+<h1>🚀 Getting Started</h1>
 To get started with these projects, simply clone this repository and open the project files in your preferred PCB design software. You can then modify and customize the designs as you see fit.
 
-🤝 Contributing
+<h1>🤝 Contributing</h1>
 Contributions are always welcome! If you have any suggestions for improving these projects or would like to add your own, feel free to open a pull request.
 
-📝 License
+<h1>📝 License</h1>
 These projects are licensed under the [MIT License ↗](https://opensource.org/license/mit/). Feel free to use them for any purpose, commercial or non-commercial.
